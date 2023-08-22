@@ -1,5 +1,5 @@
-import { handleSubmit } from './js/formHandler'
 import { checkURL } from './js/checkURL'
+import { handleSubmit } from './js/formHandler'
 
 import './styles/resets.scss'
 import './styles/base.scss'
